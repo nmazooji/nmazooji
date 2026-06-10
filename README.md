@@ -25,7 +25,7 @@ I build the systems that let companies scale without breaking:
 
 | Metric | Category | Before | After | Change | Timeframe |
 |--------|----------|--------|-------|--------|-----------|
-| Gross Revenue Retention (GRR) | Retention | — | **93%** | Sustained | Ongoing |
+| Gross Revenue Retention (GRR) | Retention | 88% | **93%** | Improved | Ongoing |
 | Client Churn | Retention | 10% | 6.87% | **−31%** | 12 months |
 | Time to Value (Onboarding) | Efficiency | 110 days | <35 days | **−68%** | 90 days |
 | Annual Ops Workload | Automation | Baseline | −16,000 hrs/yr | **~11% capacity freed** | 24 months |
