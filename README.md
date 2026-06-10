@@ -106,7 +106,7 @@ I build the systems that let companies scale without breaking:
 |----------|-------|
 | Project Management | Asana · Jira · ClickUp · Monday |
 | Data & Reporting | Salesforce · Looker · Tableau · Google Sheets |
-| Automation | Zapier · Jenkins · ChatGPT |
+| Automation | Zapier · Jenkins · ChatGPT · Agentic |
 | Customer Service Ops | Salesforce Service Cloud · Five9 · Jotform |
 | Finance & Ops | QuickBooks · NetSuite |
 | Communication | Slack · Loom · Zoom |
